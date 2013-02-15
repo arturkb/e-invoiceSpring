@@ -1,4 +1,4 @@
-package p.arturkb.einvoice;
+package pl.arturkb.einvoice;
 
 import java.text.DateFormat;
 import java.util.Date;
